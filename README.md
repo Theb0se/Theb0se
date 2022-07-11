@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rishabh Bose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://theb0se.github.io/Rishabh_bose/" align="center"><img src="https://readme-typing-svg.herokuapp.com?width=250&duration=3000&lines=Full+Stack+Developer;Ui%2FUx+Designer;Freelancer;Learner"/></a>
+  <a href="https://theb0se.github.io/Rishabh_bose/" align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=0983F7&center=true&vCenter=true&lines=Full+Stack+Developer;UI%2FUx+Designer;Freelancer;Learner"></a>
 </p>
 
 
