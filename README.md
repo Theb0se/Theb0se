@@ -13,7 +13,7 @@
 - :trophy: experties in `ReactJs` and `NodeJs` and its frameworks
 - :technologist: I love using Code as a solution for every `Problem`
 - :student: I’m currently learning: `BlockChain` and `Web 3.0`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kyWdgG1y2gtTuk_9knJhZBcX5-gPB7dk/view?usp=drivesdk).
+- :thinking: I’m currently open for new `opportunies`, this is [MY RESUME](https://drive.google.com/file/d/1kyWdgG1y2gtTuk_9knJhZBcX5-gPB7dk/view?usp=drivesdk).
 - :nerd_face: Always `learning new things`
 
 <br>
