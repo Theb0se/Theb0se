@@ -1,25 +1,26 @@
 <div align="center">
+# Hi, I'm Rishabh 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0983F7,100:00C6FF&height=200&section=header&text=Rishabh%20Bose&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Developer%20%7C%204%2B%20Years%20%7C%2020%2B%20Shipped%20Apps&descAlignY=60&descSize=16" />
+**Freelance full-stack developer** helping founders and businesses turn ideas into shipped, paying-customer products.
 
-<a href="https://theb0se.github.io/Rishabh_bose/">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=0983F7&center=true&vCenter=true&multiline=false&width=600&lines=I+build+products%2C+not+just+screens;React+%2B+Next.js+%2B+TypeScript%2C+end+to+end;20%2B+production+apps+for+global+clients;From+Figma+to+deployment+%E2%80%94+solo" alt="Typing SVG" />
-</a>
+Over 4+ years I've delivered **20+ production apps** across healthcare, SaaS, hospitality, and education, usually owning the whole build from Figma wireframe to deployment.
+
+📍 Raipur, India · 🌍 Working with clients worldwide
+🟢 **Available for freelance projects and full-time roles**
+
+---
+
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0983F7?style=for-the-badge&logo=safari&logoColor=white)](https://theb0se.github.io/Rishabh_bose/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rishabhbose3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0983F7?style=for-the-badge&logo=safari&logoColor=white)](https://theb0se.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbose3107/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theb0se.dev@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Theb0se&label=Profile%20Views&color=0983F7&style=for-the-badge)](https://github.com/Theb0se)
 
 </div>
 
 ---
-
-### 🧑‍💻 About Me
-
-I'm a freelance Full-Stack Developer based in Raipur, India, working with founders and businesses worldwide to turn ideas into shipped products. Over 4+ years I've delivered **20+ production-grade applications** across healthcare, SaaS, hospitality, and education — usually owning the whole build, from Figma wireframe to deployed, paying-customer product.
 
 ```typescript
 const rishabh: Developer = {
